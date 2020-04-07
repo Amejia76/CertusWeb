@@ -370,7 +370,7 @@ section
 {
 	width: 100%;
 	height: 55px;
-	background: #55407d;
+	background: #12123b;
 	padding-left: 64px;
 	padding-right: 62px;
 }
@@ -697,7 +697,7 @@ section
 	padding-bottom: 15px;
 	padding-left: 23px;
 	padding-right: 24px;
-	background: #55407d;
+	background: #12123b;
 }
 .search_inputs
 {
@@ -795,7 +795,7 @@ section
 }
 .search_button_1
 {
-	background: #55407d;
+	background: #12123b;
 }
 .search_button_2
 {
@@ -1019,7 +1019,7 @@ section
 }
 .tag_sale
 {
-	background: #55407d;
+	background: #12123b;
 }
 .tag_rent
 {
@@ -1140,7 +1140,7 @@ section
 {
 	max-width: 247px;
 	height: 61px;
-	background: #55407d;
+	background: #12123b;
 	text-align: center;
 	margin-top: 53px;
 	-webkit-transition: all 200ms ease;
@@ -1284,7 +1284,7 @@ section
 }
 .tag_sale
 {
-	background: #55407d;
+	background: #12123b;
 }
 .tag_rent
 {

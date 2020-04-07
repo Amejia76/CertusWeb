@@ -902,7 +902,7 @@ section
 }
 .tag_sale
 {
-	background: #55407d;
+	background: #12123b;
 }
 .tag_rent
 {
@@ -1026,7 +1026,7 @@ section
 .map_section_content
 {
 	height: 100%;
-	background: #55407d;
+	background: #12123b;
 	padding-left: 82px;
 	padding-top: 91px;
 	padding-right: 92px;
@@ -1385,7 +1385,7 @@ section
 {
 	max-width: 247px;
 	height: 61px;
-	background: #55407d;
+	background: #12123b;
 	text-align: center;
 	margin-top: 53px;
 	-webkit-transition: all 200ms ease;
@@ -1529,7 +1529,7 @@ section
 }
 .tag_sale
 {
-	background: #55407d;
+	background: #12123b;
 }
 .tag_rent
 {
